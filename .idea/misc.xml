@@ -3,5 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="/opt/miniconda3/envs/jupyter_NPOC" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/miniconda3/envs/jupyter_NPOC" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
 </project>
